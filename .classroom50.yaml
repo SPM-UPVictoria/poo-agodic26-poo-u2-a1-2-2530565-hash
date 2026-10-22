@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "poo-agodic26"
+assignment: "poo-u2-a1-2"
+owner:
+  username: "2530565-hash"
+  id: 336656342
+  accepted_at: "2026-10-22T18:24:20Z"
+source:
+  owner: "SPM-UPVictoria"
+  owner_id: 36026028
+  repo: "POO-U2-A1"
+  branch: "main"
